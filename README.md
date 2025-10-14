@@ -2,6 +2,7 @@
 
 Dive into my portfolio and discover projects that showcase my expertise and interest in the world of data.
 
+(🚧 Under construction: Power BI Dasboard for HR Mini Case Study, a physics paper and a neural network project involving superresolution)  
 ## 📄 Table of Contents
 
 
