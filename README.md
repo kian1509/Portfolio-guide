@@ -8,7 +8,7 @@ Dive into my portfolio and discover projects that showcase my expertise and inte
 # SQL
 |Project|Skills|Description|
 |---|---|---|
-[📻 Radio Broadcasting Analysis](https://github.com/kian1509/Radio/tree/main)|SQL|Exploratory Data Analysis on radio broadcast data|
+[📻 Radio Broadcasting Analysis](https://github.com/kian1509/Radio/tree/main)|SQL|Exploratory Data Analysis on radio broadcast data.|
 [👪 HR Mini Case Study](https://github.com/kian1509/HR-analytics)|SQL, Power BI|Exploratory Data Analysis on employee data from an Indian company. Key insights are extracted using relevant queries and summarized through a Power BI dashboard.|
 ***
 # Python
