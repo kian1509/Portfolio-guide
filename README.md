@@ -2,7 +2,7 @@
 
 Dive into my portfolio and discover projects that showcase my expertise and interest in the world of data.
 
-(🚧 Under construction: a physics paper and a neural network project involving superresolution)  
+(🚧 Under construction: a neural network project involving superresolution)  
 ## 📄 Table of Contents
 
 
@@ -17,3 +17,8 @@ Dive into my portfolio and discover projects that showcase my expertise and inte
 |---|---|---|
 [📌 Geolocation POI Visit](https://github.com/kian1509/Geolocation-POI-visit)|Python, Statistics|Developed an algorithm to estimate the probability of a user visiting a specific point of interest (POI) based on real GPS data.|
 ***
+# 🌌 Physics paper (Only for the bold and the curious!)
+|Project|Skills|Description|
+|---|---|---|
+[Paper](https://github.com/kian1509/Physics-paper)|Theoretical physics, complex mathematics,analytical reasoning|A self written paper about inflation theory.|
+
