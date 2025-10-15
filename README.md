@@ -6,7 +6,7 @@ Dive into my portfolio and discover projects that showcase my expertise and inte
 ## 📄 Table of Contents
 
 
-# SQL
+# SQL + Power BI
 |Project|Skills|Description|
 |---|---|---|
 [📻 Radio Broadcasting Analysis](https://github.com/kian1509/Radio/tree/main)|SQL|Exploratory Data Analysis on radio broadcast data.|
