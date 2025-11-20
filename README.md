@@ -2,6 +2,10 @@
 
 Dive into my portfolio and discover projects that showcase my expertise and interest in the world of data.
 
+# Highlighted
+[🛒 Aldi Campaign Analysis](https://github.com/kian1509/Aldi-Campaign-Analysis/tree/main)
+
+
 (🚧 Under construction: a neural network project involving superresolution)  
 ## 📄 Table of Contents
 
@@ -9,6 +13,7 @@ Dive into my portfolio and discover projects that showcase my expertise and inte
 # SQL + Power BI
 |Project|Skills|Description|
 |---|---|---|
+[🛒 Aldi Campaign Analysis](https://github.com/kian1509/Aldi-Campaign-Analysis/tree/main)|SQL,Power BI|Generating useful insights for Aldi regarding their Disney Campaign in 2023.|
 [📻 Radio Broadcasting Analysis](https://github.com/kian1509/Radio/tree/main)|SQL|Exploratory Data Analysis on radio broadcast data.|
 [👪 HR Mini Case Study](https://github.com/kian1509/HR-analytics)|SQL, Power BI|Exploratory Data Analysis on employee data from an Indian company. Key insights are extracted using relevant queries and summarized through a Power BI dashboard.|
 ***
